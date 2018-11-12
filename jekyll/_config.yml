@@ -1,0 +1,8 @@
+name: "my first jekyll"
+description: "first attempt"
+
+url: "http://www.sadamenofansub.tk"
+
+paginate: 2
+paginate_path: "blog/:num"
+permalink: pretty
